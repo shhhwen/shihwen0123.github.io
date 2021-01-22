@@ -1,0 +1,47 @@
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.google.com" resolutions="1x" timestamp="1611328908009">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="342286514" ref="index"/>
+    <file name="1.css" crc="97281556" ref="1"/>
+    <file name="3.css" crc="14007879" ref="3"/>
+    <file name="2.css" crc="433303876" ref="2"/>
+  </folder>
+  <folder name="assets">
+    <file name="0122.pdf" crc="437155183" seo="true" mt="1611324699000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:1:2:3"/>
+    <file name="museutils.js" crc="4216313831" ref="index:1:2:3"/>
+    <file name="whatinput.js" crc="86476730" ref="index:1:2:3"/>
+    <file name="museconfig.js" crc="4177022356" ref="index:1:2:3"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:1:2:3"/>
+    <file name="require.js" crc="3951022091" ref="index:1:2:3"/>
+    <file name="webpro.js" crc="4143865194" ref="3"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="3"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="3"/>
+    <file name="touchswipe.js" crc="4200445185" ref="3"/>
+  </folder>
+  <folder name="images">
+    <file name="ae witch.png" crc="3860645877" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="海報.jpg" crc="3843969590" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="0122.png" crc="43316198" seo="true" ref="3">
+      <caption webpage="3" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="3"/>
+    <file name="空間-1.png" crc="4006216117" seo="true" ref="3">
+      <caption webpage="3" alt=""/>
+    </file>
+    <file name="蛇戀 (1).jpg" crc="4250464606" seo="true" ref="3">
+      <caption webpage="3" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="3"/>
+  </folder>
+  <file name="index.html" crc="4116682408" seo="true" mt="1611327605694" redirect="true"/>
+  <file name="1.html" crc="4185073532" seo="true" mt="1611327966279" redirect="true"/>
+  <file name="2.html" crc="4083245518" seo="true" mt="1611327973023" redirect="true"/>
+  <file name="3.html" crc="4015383210" seo="true" mt="1611328284802" redirect="true"/>
+</manifest>
